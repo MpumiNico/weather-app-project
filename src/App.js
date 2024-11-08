@@ -10,7 +10,7 @@ export default function App() {
         <footer>
           This project is was coded by{" "}
           <a href="https://github.com/MpumiNico">Mpumi Nicollete Mahlalela</a> and is{" "}
-          <a href="https://github.com/MpumiNico/weather-app">
+          <a href="https://github.com/MpumiNico/weather-app-project">
             open-sourced on Github
           </a>{" "}
           and hosted on{" "}
