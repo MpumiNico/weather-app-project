@@ -14,7 +14,7 @@ export default function App() {
             open-sourced on Github
           </a>{" "}
           and hosted on{" "}
-          <a href="https://netlify.app/">Netlify</a>
+          <a href="https://projectappweather.netlify.app/">Netlify</a>
         </footer>
       </div>
     </div>
